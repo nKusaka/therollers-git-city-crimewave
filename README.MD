@@ -1,0 +1,1 @@
+the rollers members: nikolias, bilal, angel, zak git commands used: git init, git, git status, git add ., git commit, git checkout -b, git branch, git log, git commit -m, git merge, git remote add origin, git push, git revert, git reset --hard, git echo, git touch
